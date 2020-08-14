@@ -8,5 +8,5 @@ for Country +62 ( Indonesia )
 Admin tidak bertanggungjawab kalo terjadi sesuatu dg Script ini!!
 Jadi gunakan dg bijak dan pakai secukupnya Woke ^_^
 ```
-Support terus Aing ya cuk!!<\br>
-Subs juga yt gua [Sanz Soekamti](https://youtube.com/SanzSoekamti)
+Support terus Aing ya cuk!!
+<br\>Subs juga yt gua [Sanz Soekamti](https://youtube.com/SanzSoekamti)
