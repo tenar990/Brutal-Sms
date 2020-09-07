@@ -9,4 +9,4 @@ Admin tidak bertanggungjawab kalo terjadi sesuatu dg Script ini!!
 Jadi gunakan dg bijak dan pakai secukupnya Woke ^_^
 ```
 Support terus Aing ya cuk!!
-<br>Subs juga yt gua [Sanz Soekamti](https://youtube.com/SanzSoekamti)
+<br>Subs juga yt gua [Tutorial Android](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)
