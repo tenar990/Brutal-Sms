@@ -8,6 +8,7 @@ nyepam Mantan Lu awokawokwkwk:v
 ## How to it?
 ```python
 $ cd Brutal-Sms
+$ pip install -r requirements.txt
 $ bash install.sh
 ```
 > Get Token [click here](https://bit.ly/TokenBrutalSms)
