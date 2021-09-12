@@ -1,12 +1,18 @@
-# Brutal Sms V3.0
+# Brutal Sms
 ```
-Brutal Spam Sms Unlimited All Operator
-for Country +62 ( Indonesia )
+Tools ini dibuat untuk ngerjain
+Kang Ripper atau boleh juga buat
+nyepam Mantan Lu awokawokwkwk:v
 ```
-# Info
+> Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
+## How to it?
+```python
+$ cd Brutal-Sms
+$ bash install.sh
 ```
-Admin tidak bertanggungjawab kalo terjadi sesuatu dg Script ini!!
-Jadi gunakan dg bijak dan pakai secukupnya Woke ^_^
-```
-Support terus Aing ya cuk!!
-<br>Subs juga yt gua [Tutorial Android](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)
+> Get Token [click here](https://bit.ly/TokenBrutalSms)
+## Support Me On
+<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<br>
+<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+</br>
